@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kingshuk12/Leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kingshuk12/Leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kingshuk12/Leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kingshuk12/Leetcode-submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kingshuk12/Leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kingshuk12/Leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kingshuk12/Leetcode-submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/kingshuk12/Leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kingshuk12/Leetcode-submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
