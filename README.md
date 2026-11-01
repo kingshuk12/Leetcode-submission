@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kingshuk12/Leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kingshuk12/Leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kingshuk12/Leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/kingshuk12/Leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kingshuk12/Leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/kingshuk12/Leetcode-submission/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
