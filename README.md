@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kingshuk12/Leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1882-process-tasks-using-servers](https://github.com/kingshuk12/Leetcode-submission/tree/master/1882-process-tasks-using-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kingshuk12/Leetcode-submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kingshuk12/Leetcode-submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/kingshuk12/Leetcode-submission/tree/master/3665-twisted-mirror-path-count) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/kingshuk12/Leetcode-submission/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kingshuk12/Leetcode-submission/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
